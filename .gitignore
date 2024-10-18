@@ -2,4 +2,4 @@
 .env
 *.pdf
 *.csv
-*.txt
+output.txt
